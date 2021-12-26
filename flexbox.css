@@ -61,3 +61,6 @@
 .cabecalhoPrincipal-nav {
   flex-direction: column;
 }
+.cabecalhoPrincipal .container {
+  flex-direction: column;
+}
